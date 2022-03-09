@@ -3,7 +3,7 @@
 ## Abou me
 
 ## Tech skills I'm developing & tools I’m learning 
-(basic level) 
+(basic level & in progress) 
 
 * creating test cases 
 * reporting bugs 
