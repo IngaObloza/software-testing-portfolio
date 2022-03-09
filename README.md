@@ -1,4 +1,4 @@
-## my work and exerxises:
+## My work and exerxises
 
 ## Abou me
 
