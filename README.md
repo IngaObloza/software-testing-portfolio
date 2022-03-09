@@ -74,14 +74,14 @@ I am open to any feedback, criticism, and help with professional development and
 
 * [No Bullshit About...Testing - Junior Education 2021 (9.12.2021)](https://nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021/)
 
+## My decision tables, diagrams, equivalence partition, test data examples
+* BiC - Blood Inheritance Calculator (own project)
+
 ## My test case and scenarios examples
 
 
 ## My bug reports examples 
 
-
-## My decision tables, diagrams, equivalence partition, test data examples
- 
  
 ## My SQL exercise
 
