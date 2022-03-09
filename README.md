@@ -75,10 +75,10 @@ I am open to any feedback, criticism, and help with professional development and
 * [No Bullshit About...Testing - Junior Education 2021 (9.12.2021)](https://nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021/)
 
 ## My decision tables, diagrams, equivalence partition, test data examples
-* **BiC - Blood Inheritance Calculator (own project)**
+* [**BiC - Blood Inheritance Calculator (own project)** / in progress](https://docs.google.com/document/d/1-Pbtu5N0RL89Qpd-9V0-qEzyOU8k-YnpotLYSfTY3kM/edit?usp=sharing)
   * [decision tables - BIC](https://docs.google.com/spreadsheets/d/1bHoJz0tZilhwp1bAOFOdVXAxaHRJGYs3IRHulx27_BU/edit?usp=sharing)
   * [diagram 1 - BIC](https://drive.google.com/file/d/1CU_BVcMVU32Q_bTRgmhGYfL2a6krofVx/view?usp=sharing)
-  * [diagram 2- BiC](https://drive.google.com/file/d/1tikshSY5gpXsW2TcHzP4Alp_2pQqxFSH/view?usp=sharing)
+  * [diagram 2 - BiC](https://drive.google.com/file/d/1tikshSY5gpXsW2TcHzP4Alp_2pQqxFSH/view?usp=sharing)
 
 ## My test case and scenarios examples
 
