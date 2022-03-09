@@ -2,7 +2,8 @@
 
 ## Abou me
 
-## Tech skills I'm developing & tools I’m learning (primary and developing level) 
+## Tech skills I'm developing & tools I’m learning 
+(basic level) 
 
 * creating test cases 
 * reporting bugs 
