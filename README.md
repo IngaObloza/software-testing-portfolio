@@ -95,4 +95,3 @@ I am open to any feedback, criticism, and help with professional development and
 ## My API testing exercise  
 
 
-## My projects 
