@@ -81,6 +81,8 @@ I am open to any feedback, criticism, and help with professional development and
   * [diagram 2 - BiC](https://drive.google.com/file/d/1tikshSY5gpXsW2TcHzP4Alp_2pQqxFSH/view?usp=sharing)
 
 ## My test case and scenarios examples
+* [**BiC - Blood Inheritance Calculator (own project)** / in progress](https://docs.google.com/document/d/1-Pbtu5N0RL89Qpd-9V0-qEzyOU8k-YnpotLYSfTY3kM/edit?usp=sharing)
+  * [test cases - BIC / in progress](https://docs.google.com/document/d/1ULCeeRANx_f_CHGXL9NWlrIWlmNoLemsyCI_sRthUMo/edit?usp=sharing)
 
 
 ## My bug reports examples 
