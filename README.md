@@ -26,7 +26,7 @@ I am open to any feedback, criticism, and help with professional development and
 * REST API testing with Postman 
 * Agile & Scrum - project management methodologies 
 * User Story and BDD as formats of requirements formulation in agile methodologies
-* other tolls: Screenpresso, draw.io, PomoDoneApp, Asana
+* other helpful tolls: Screenpresso, draw.io, PomoDoneApp, Asana
 
 ## Courses
 
