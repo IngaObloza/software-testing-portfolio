@@ -10,7 +10,7 @@ I'm driven by the desire to grow, I love to learn and strive to understand and t
 
 On this site I organize and also I would like to share my all gained experience from personal studies and researches.
 I currently do not have a mentor, but i'm doing my best work and training with open mind and determination. 
-I am open to any feedback, criticism, and help with professional development. So, let's stay in touch! :] 
+I am open to any feedback, criticism, and help with professional development and growth. So, let's stay in touch! :] 
 
 
 ## Tech skills I'm developing & tools I’m learning 
