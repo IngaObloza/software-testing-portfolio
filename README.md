@@ -9,7 +9,7 @@ My career path is quite complex, although each element is valuable for where I a
 I'm driven by the desire to grow, I love to learn and strive to understand and the field of IT in a broad sense gives (to me) amazing spaces to explore, the mind keeps working for valuable, from the point of view of humanity, things. Extremely interesting are also the values that IT affirms - such as the need for continuous improvement and optimization of processes, agile, the development of the field of UX, taking into account the needs of humans (individuals). All this makes learning a part of a valuable process, also in terms of personal development. Need for optimization, respect for know-how, insight and obsession with details make development of testing skills quite rewarding for me. 
 
 On this site I organize and also I would like to share my all gained experience from personal studies and researches.
-I currently do not have a mentor, but i'm doing my best work and training with open mind and determination. 
+I currently do not have a mentor, but i'm doing my best work and training with open mind and determination. There is still a lot to do and to explore. 
 I am open to any feedback, criticism, and help with professional development and growth. So, let's stay in touch! :] 
 
 
