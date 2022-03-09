@@ -18,7 +18,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 * creating test cases 
 * reporting bugs 
-* using black box method for testing (creating diagrams, decision tables and equivalence partition)
+* using black box method for testing - creating diagrams, decision tables and equivalence partition
 * Jira, Zephyr for Jira, TestLink - Issue tracking and project management tool for developers
 * SQL / MySQL - Structured Query Language and relational database
 * Git and GitHub -  Version Control Systems
