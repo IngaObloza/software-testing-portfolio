@@ -43,7 +43,7 @@
 * [tester.milenabednarczyk.pl](https://tester.milenabednarczyk.pl/)
 * [magazyn Core](https://www.coremag.eu/pl/) 
 * [SQLpedia - Jakub Kasprzak](https://www.sqlpedia.pl/kurs-sql/)
-* [SQL – ćwiczenia](https://www.codewars.com/)
+* [SQL – ćwiczenia Codewars](https://www.codewars.com/)
 * [kursjava.com - Przemysław Kruglej](https://kursjava.com/)
 * [samouczekprogramisty.pl - Marcin Pietraszek](https://www.samouczekprogramisty.pl/)
 * [technologie / Youtube - Overment](https://www.youtube.com/c/overment)
