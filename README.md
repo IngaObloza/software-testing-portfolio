@@ -70,7 +70,7 @@ I am open to any feedback, criticism, and help with professional development and
 * [Gildia Testerów](https://www.facebook.com/GildiaTesterow)
 
 
-## Events / Meetups attended for Professional growth
+## Events / Meetups attended for professional growth
 
 * [No Bullshit About...Testing - Junior Education 2021 (9.12.2021)](https://nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021/)
 
