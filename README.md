@@ -29,7 +29,7 @@
 
 * [Podróż przez świat testowania - Karolina Pawłowska & Natalia Pawlak](https://www.funwithbugs.com/landingpage/juz_jest_dostepna/)
 * [Nauka programowania w języku Java (2020) - Przemysław Kruglej (in progres)](https://kursjava.com/wp-content/uploads/2020/06/Nauka-programowania-w-jezyku-Java-v0.7.3.pdf)
-* [Scrum Guide (2020 / PL) - (Ken Schwaber & Jeff Sutherland, transl. Tomasz Włodarek](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Polish.pdf)
+* [Scrum Guide (2020 / PL) - Ken Schwaber & Jeff Sutherland, transl. Tomasz Włodarek](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Polish.pdf)
 
 ## Tech blogs & tutorials & Youtube channels for knowledge gathering  
  
