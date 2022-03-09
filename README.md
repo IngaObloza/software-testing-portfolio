@@ -12,7 +12,6 @@ On this site I organize and also I would like to share my all gained experience 
 I currently do not have a mentor, but i'm doing my best work and training with open mind and determination. There is still a lot to do and to explore. 
 I am open to any feedback, criticism, and help with professional development and growth. So, let's stay in touch! :] 
 
-
 ## Tech skills I'm developing & tools I’m learning 
 (basic level & in progress) 
 
@@ -87,7 +86,6 @@ I am open to any feedback, criticism, and help with professional development and
 ## My SQL exercise
 
 * [SQL exercises - my GitHub repository](https://github.com/IngaObloza/SQL-self-study-exercises.git)
-
 
 ## My Java exercise
 
