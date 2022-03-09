@@ -69,7 +69,7 @@
 ## My bug reports examples 
 
 
-## Black box method in testing - My decision tables, diagrams, equivalence partition, test data examples
+## My decision tables, diagrams, equivalence partition, test data examples
  
  
 ## My SQL exercise
