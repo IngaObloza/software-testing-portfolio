@@ -51,7 +51,6 @@ I am open to any feedback, criticism, and help with professional development and
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
 * [https://bulldogjob.pl/readme](https://bulldogjob.pl/readme)
 * [testuj.pl-blog](https://testuj.pl/blog/)
-* [tester.milenabednarczyk.pl](https://tester.milenabednarczyk.pl/)
 * [magazyn Core](https://www.coremag.eu/pl/) 
 * [SQLpedia - Jakub Kasprzak](https://www.sqlpedia.pl/kurs-sql/)
 * [SQL – ćwiczenia Codewars](https://www.codewars.com/)
