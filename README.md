@@ -86,7 +86,7 @@ I am open to any feedback, criticism, and help with professional development and
     * [* bug report: APATd-1.3.1.1 - "add to compare" link](https://docs.google.com/document/d/19ttax4y_atYdaIhBPTnxk8zBaBF3nHKG6AiN9r0ULYg/edit?usp=sharing)
     
 
- * [2.feature - View of cart and changing quantity of products in cart](https://drive.google.com/drive/folders/1YBki34DIvB3d4ix6KSRVkGMAZr1rcDaT?usp=sharing)
+* [2.feature - View of cart and changing quantity of products in cart](https://drive.google.com/drive/folders/1YBki34DIvB3d4ix6KSRVkGMAZr1rcDaT?usp=sharing)
   * [2.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1DqIACGbKrUu7dPEFs9V2pBYFmRFOXXLj?usp=sharing)
   * [2.1 test specification: test suites and test cases](https://drive.google.com/file/d/1Pzbk2JL9Usm4-Bc4Nrbrd34uUuiwTal4/view?usp=sharing)
 
