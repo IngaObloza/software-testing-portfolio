@@ -74,6 +74,10 @@ I am open to any feedback, criticism, and help with professional development and
 * [No Bullshit About...Testing - Junior Education 2021 (9.12.2021)](https://nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021/)
 * [#31 Meetup ŁuczniczQA - "Dlaczego tester to za mało?" (15.03.2022)](https://app.evenea.pl/event/31luczniczqa/)
 
+
+
+### My projects and test documentation
+
 ## My decision tables, diagrams, equivalence partition, test data examples
 * [**BiC - Blood Inheritance Calculator (own project)** / in progress](https://docs.google.com/document/d/1-Pbtu5N0RL89Qpd-9V0-qEzyOU8k-YnpotLYSfTY3kM/edit?usp=sharing)
   * [decision tables - BIC](https://docs.google.com/spreadsheets/d/1bHoJz0tZilhwp1bAOFOdVXAxaHRJGYs3IRHulx27_BU/edit?usp=sharing)
