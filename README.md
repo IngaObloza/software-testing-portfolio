@@ -84,7 +84,7 @@ I am open to any feedback, criticism, and help with professional development and
    * [1.2 test specification: test suites and test cases](https://drive.google.com/file/d/1dbuPZIo1F7OxCcZHX2lsSf_97ZF6ACrp/view?usp=sharing)
    * [1.3 test reports: Test plan execution reports and defect reports](https://drive.google.com/drive/folders/17WTkI-786Rf3fiphnortbVwqYN2hy215?usp=sharing)
     * [* 1.3.1 test plan execution report](https://drive.google.com/file/d/1Zf_FtTBiURdJBTemzwMLUibsbno1qiVR/view?usp=sharing)   
-    * [* bug report: APATd-1.3.1.1 - "add to compare" link](https://docs.google.com/document/d/19ttax4y_atYdaIhBPTnxk8zBaBF3nHKG6AiN9r0ULYg/edit?usp=sharing)
+    * [* bug report: APATd-1.3.1.1 - "add to compare" link](https://docs.google.com/document/d/1vKYZPdE0ST7UuVR8hjKqZqbTbpUl2VYnlBFr2F8KsSU/edit?usp=sharing)
     
 
 * [2.feature - View of cart and changing quantity of products in cart](https://drive.google.com/drive/folders/1YBki34DIvB3d4ix6KSRVkGMAZr1rcDaT?usp=sharing)
