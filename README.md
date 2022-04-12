@@ -29,7 +29,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 ## Courses
 
-* **Tester Oprogramowania** – Software Development Academy (114 h)
+* **Tester Oprogramowania** – Software Development Academy (119 h)
 
 ## Certificates
 
