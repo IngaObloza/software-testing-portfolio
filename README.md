@@ -117,7 +117,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 * [SQL exercises - my GitHub repository](https://github.com/IngaObloza/SQL-self-study-exercises.git)
 * [SQL training - CodeWars](https://github.com/IngaObloza/SQL-CodeWars.git)
- * [Codewars Profile Badges](https://www.codewars.com/users/iobloza/badges/large)
+  * [Codewars Profile Badges](https://www.codewars.com/users/iobloza/badges/large)
 
 ## My Java exercise
 
