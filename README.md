@@ -79,23 +79,24 @@ I am open to any feedback, criticism, and help with professional development and
 
 # **My projects and test documentation**
 * [**APAT-automationpractice.com app testing** / TestLink project / (in progress) `test cases and scenarios` `work with specification` `test plan execution` `bug report` `TestLink`  ](https://drive.google.com/drive/folders/1OobDB_e9LYu5tGjr4yzm4p8MB24n7CbI?usp=sharing)
- * [1.feature - Comparing multiple products by user](https://drive.google.com/drive/folders/1h26n2rN4snTwvj4wOV7q7Oad2qf9Duun?usp=sharing)
+ * [**1.feature - Comparing multiple products by user**](https://drive.google.com/drive/folders/1h26n2rN4snTwvj4wOV7q7Oad2qf9Duun?usp=sharing)
    * [1.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1LuGujVGozVnIDT_dVzYg-Y_jNO9HJLyE?usp=sharing)
    * [1.2 test specification: test suites and test cases](https://drive.google.com/file/d/10tZ25Um9oECbIu1XZuZ6wN0w5PwPAzUm/view?usp=sharing)
    * [1.3 test reports: Test plan execution reports and defect reports](https://drive.google.com/drive/folders/17WTkI-786Rf3fiphnortbVwqYN2hy215?usp=sharing)
     * [** 1.3.1 test plan execution report](https://drive.google.com/file/d/1Zf_FtTBiURdJBTemzwMLUibsbno1qiVR/view?usp=sharing)   
-    * [* bug report: APATd-1.3.1.1 - "add to compare" link not available on product's site](https://docs.google.com/document/d/1vKYZPdE0ST7UuVR8hjKqZqbTbpUl2VYnlBFr2F8KsSU/edit?usp=sharing)
+    * [* *bug report: APATd-1.3.1.1 - "add to compare" link not available on product's site*](https://docs.google.com/document/d/1vKYZPdE0ST7UuVR8hjKqZqbTbpUl2VYnlBFr2F8KsSU/edit?usp=sharing)
     * [** 1.3.2 test plan execution report](https://drive.google.com/file/d/12AP6aUmNsieEiDusUyp5EmTpw0jXihU7/view?usp=sharing)
-    * [* bug report: APATd-1.3.2.1 - "add to compare" link not available after pointing cursor over product](https://docs.google.com/document/d/19ttax4y_atYdaIhBPTnxk8zBaBF3nHKG6AiN9r0ULYg/edit?usp=sharing) 
+    * [* *bug report: APATd-1.3.2.1 - "add to compare" link not available after pointing cursor over product*](https://docs.google.com/document/d/19ttax4y_atYdaIhBPTnxk8zBaBF3nHKG6AiN9r0ULYg/edit?usp=sharing) 
     * [** 1.3.3 test plan execution report](https://drive.google.com/file/d/1HhtIf3PR-_ss9qLwBFgC4IXqvNWxGt_c/view?usp=sharing)
-    * [* bug report: APATd-1.3.3.1 - comparing products possible for one product added](https://docs.google.com/document/d/1X2K1xyDMQw_Q6u3ZqCsO9EAhgyJygA7CzV5WSWMsOJI/edit?usp=sharing)
-    * [* bug report: APATd-1.3.3.2 - comparing products possible max for three product added](https://docs.google.com/document/d/1CDvd_vr5rczF89fP5Tu8ZVUETC-Xk44DBCfkMI2IlJM/edit?usp=sharing)
+    * [* *bug report: APATd-1.3.3.1 - comparing products possible for one product added*](https://docs.google.com/document/d/1X2K1xyDMQw_Q6u3ZqCsO9EAhgyJygA7CzV5WSWMsOJI/edit?usp=sharing)
+    * [* *bug report: APATd-1.3.3.2 - comparing products possible max for three product added*](https://docs.google.com/document/d/1CDvd_vr5rczF89fP5Tu8ZVUETC-Xk44DBCfkMI2IlJM/edit?usp=sharing)
  
     
 
-* [2.feature - View of cart and changing quantity of products in cart](https://drive.google.com/drive/folders/1YBki34DIvB3d4ix6KSRVkGMAZr1rcDaT?usp=sharing)
+* [**2.feature - View of cart and changing quantity of products in cart**](https://drive.google.com/drive/folders/1YBki34DIvB3d4ix6KSRVkGMAZr1rcDaT?usp=sharing)
   * [2.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1DqIACGbKrUu7dPEFs9V2pBYFmRFOXXLj?usp=sharing)
   * [2.1 test specification: test suites and test cases](https://drive.google.com/file/d/1Pzbk2JL9Usm4-Bc4Nrbrd34uUuiwTal4/view?usp=sharing)
+  
 
 ## My decision tables, diagrams, equivalence partition, test data examples
 * [**BiC - Blood Inheritance Calculator (own project)** / in progress](https://docs.google.com/document/d/1-Pbtu5N0RL89Qpd-9V0-qEzyOU8k-YnpotLYSfTY3kM/edit?usp=sharing)
