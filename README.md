@@ -13,15 +13,15 @@ I currently do not have a mentor, but i'm doing my best work and training with o
 I am open to any feedback, criticism, and help with professional development and growth. So, let's stay in touch! :] 
 
 ### Tech skills I'm developing & tools I’m learning 
-(basic / junior level & in progress) 
+(basic / junior knowledge & in progress) 
 
-* creating test cases 
-* reporting bugs 
+* creating test cases & creating / arranging TC in a scenario
+* writing bugs report by using best practices
 * using black box method for testing - creating diagrams, decision tables and equivalence partition
-* Jira, Zephyr for Jira, TestLink - Issue tracking and project management tool for developers
-* SQL / MySQL - Structured Query Language and relational database
+* Jira, Zephyr Scale for Jira, TestLink - Issue tracking and project management tool for developers
+* SQL / MySQL - Structured Query Language and relational database (practicing also: PostgreSQL)
 * Git and GitHub -  Version Control Systems
-* Java languages / IntelliJ IDEA
+* Java programming languages / IntelliJ IDEA / (learned basic of how it works. I'm learning Java now to know how it works, not for test automation)
 * REST API testing with Postman 
 * Agile & Scrum - project management methodologies 
 * User Story and BDD as formats of requirements formulation in agile methodologies
