@@ -77,7 +77,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 
 # **My work & training**
-* ## **My projects and test documentation / manual testing:**
+## **My projects and test documentation / manual testing:**
 ### [**APAT-automationpractice.com app testing** / TestLink project / (in progress)](https://drive.google.com/drive/folders/1OobDB_e9LYu5tGjr4yzm4p8MB24n7CbI?usp=sharing)
  `test case and scenario` `work with specification` `test plan execution` `bug report` `TestLink`  
  * [**1.feature - Comparing multiple products by user**](https://drive.google.com/drive/folders/1h26n2rN4snTwvj4wOV7q7Oad2qf9Duun?usp=sharing)
@@ -111,19 +111,19 @@ I am open to any feedback, criticism, and help with professional development and
 
 
 
-* ## **Other tools and method used for improving QC skills:**
+## **Other tools and method used for improving QC skills:**
 
  
-## My SQL training
+### My SQL training
 
 * [SQL exercises / my GitHub repository / used: MySQL](https://github.com/IngaObloza/SQL-self-study-exercises.git)
 * [SQL training - CodeWars / my GitHub repository / supports version: PostgreSQL 13.0](https://github.com/IngaObloza/SQL-CodeWars.git)
   * [Codewars Profile Badges](https://www.codewars.com/users/iobloza/badges/large)
 
-## My Java exercise
+### My Java exercise
 
 * [Java exercises - my GitHub repository]
 
-## My API testing   
+### My API testing   
 
 
