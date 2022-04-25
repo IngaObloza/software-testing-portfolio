@@ -78,7 +78,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 # **My work & training**
 ## **My projects and test documentation / manual testing:**
-### [**APAT-automationpractice.com app testing** / TestLink project / (in progress)](https://drive.google.com/drive/folders/1OobDB_e9LYu5tGjr4yzm4p8MB24n7CbI?usp=sharing)
+### [**1] APAT-automationpractice.com app testing** / TestLink project / (in progress)](https://drive.google.com/drive/folders/1OobDB_e9LYu5tGjr4yzm4p8MB24n7CbI?usp=sharing)
  `test case and scenario` `work with specification` `test plan execution` `bug report` `TestLink`  
  * [**1.feature - Comparing multiple products by user**](https://drive.google.com/drive/folders/1h26n2rN4snTwvj4wOV7q7Oad2qf9Duun?usp=sharing)
    * [1.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1LuGujVGozVnIDT_dVzYg-Y_jNO9HJLyE?usp=sharing)
@@ -98,7 +98,7 @@ I am open to any feedback, criticism, and help with professional development and
   * [2.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1DqIACGbKrUu7dPEFs9V2pBYFmRFOXXLj?usp=sharing)
   * [2.1 test specification: test suites and test cases](https://drive.google.com/file/d/1Pzbk2JL9Usm4-Bc4Nrbrd34uUuiwTal4/view?usp=sharing)
   
-### Fragmented
+### Fragmented:
 ### My decision tables, diagrams, equivalence partition, test data examples
 * [**BiC - Blood Inheritance Calculator (own project)** / in progress](https://docs.google.com/document/d/1-Pbtu5N0RL89Qpd-9V0-qEzyOU8k-YnpotLYSfTY3kM/edit?usp=sharing)
   * [decision tables - BIC](https://docs.google.com/spreadsheets/d/1bHoJz0tZilhwp1bAOFOdVXAxaHRJGYs3IRHulx27_BU/edit?usp=sharing)
