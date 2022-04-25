@@ -12,7 +12,7 @@ On this site I organize and also I would like to share my all gained experience 
 I currently do not have a mentor, but i'm doing my best work and training with open mind and determination. There is still a lot to do and to explore. 
 I am open to any feedback, criticism, and help with professional development and growth. So, let's stay in touch! :] 
 
-## Tech skills I'm developing & tools I’m learning 
+### Tech skills I'm developing & tools I’m learning 
 (basic / junior level & in progress) 
 
 * creating test cases 
@@ -27,22 +27,22 @@ I am open to any feedback, criticism, and help with professional development and
 * User Story and BDD as formats of requirements formulation in agile methodologies
 * other helpful tolls: Screenpresso, draw.io, PomoDoneApp, Asana
 
-## Courses
+### Courses
 
 * **Tester Oprogramowania** – Software Development Academy (119 h)
 
-## Certificates
+### Certificates
 
 * [Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d47db8e72bf8056cec53efc0d31c0c725643fb25a)
 * [Scrum - training](https://app.diplomasafe.com/pl-PL/diploma/d53781c6a0aa654bdbb4dc8747636b82fadc0fd17) 
  
-## Tech books read
+### Tech books read
 
 * [Podróż przez świat testowania - Karolina Pawłowska & Natalia Pawlak](https://www.funwithbugs.com/landingpage/juz_jest_dostepna/)
 * [Nauka programowania w języku Java (2020) - Przemysław Kruglej (in progres)](https://kursjava.com/wp-content/uploads/2020/06/Nauka-programowania-w-jezyku-Java-v0.7.3.pdf)
 * [Scrum Guide (2020 / PL) - Ken Schwaber & Jeff Sutherland, transl. Tomasz Włodarek](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Polish.pdf)
 
-## Tech blogs & tutorials & Youtube channels for knowledge gathering  
+### Tech blogs & tutorials & Youtube channels for knowledge gathering  
  
 * [Testerzy.pl - Baza wiedzy](https://testerzy.pl/baza-wiedzy)
 * [SjSi - Stowarzyszenie jakości systemów informatycznych](https://sjsi.org/)
@@ -61,7 +61,7 @@ I am open to any feedback, criticism, and help with professional development and
 * [technologie / Youtube - Pasja Informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale)
 * [#białko czyli Scrum i Agile](https://bialko.eu/)
 
-## Groups on Facebook  
+### Groups on Facebook  
 
 * [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223) 
 * [Tester oprogramowania – wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header) 
@@ -70,7 +70,7 @@ I am open to any feedback, criticism, and help with professional development and
 * [Gildia Testerów](https://www.facebook.com/GildiaTesterow)
 
 
-## Selected Events / Meetups attended for professional growth
+### Selected Events / Meetups attended for professional growth
 
 * [No Bullshit About...Testing - Junior Education 2021 (9.12.2021)](https://nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021/)
 * [#31 Meetup ŁuczniczQA - "Dlaczego tester to za mało?" (15.03.2022)](https://app.evenea.pl/event/31luczniczqa/)
