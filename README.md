@@ -124,6 +124,6 @@ I am open to any feedback, criticism, and help with professional development and
 
 * [Java exercises - my GitHub repository]
 
-## My API testing exercise  
+## My API testing   
 
 
