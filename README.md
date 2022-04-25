@@ -13,7 +13,7 @@ I currently do not have a mentor, but i'm doing my best work and training with o
 I am open to any feedback, criticism, and help with professional development and growth. So, let's stay in touch! :] 
 
 ## Tech skills I'm developing & tools I’m learning 
-(basic level & in progress) 
+(basic / junior level & in progress) 
 
 * creating test cases 
 * reporting bugs 
