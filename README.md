@@ -76,8 +76,8 @@ I am open to any feedback, criticism, and help with professional development and
 * [#31 Meetup ŁuczniczQA - "Dlaczego tester to za mało?" (15.03.2022)](https://app.evenea.pl/event/31luczniczqa/)
 
 
-My work & training
-# **My projects and test documentation**
+# **My work & training**
+# **My projects and test documentation / manual testing**
 ### [**APAT-automationpractice.com app testing** / TestLink project / (in progress)](https://drive.google.com/drive/folders/1OobDB_e9LYu5tGjr4yzm4p8MB24n7CbI?usp=sharing)
  `test case and scenario` `work with specification` `test plan execution` `bug report` `TestLink`  
  * [**1.feature - Comparing multiple products by user**](https://drive.google.com/drive/folders/1h26n2rN4snTwvj4wOV7q7Oad2qf9Duun?usp=sharing)
