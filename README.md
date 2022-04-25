@@ -1,6 +1,6 @@
 ## My work and exerxises
 
-## Abou me
+### Abou me
 
 My name is Inga Obłoza and some time ago I decided to join the community of software testers. I'm on begining of my paths but i'm really satisfied with increasing my proffesional skills. Intensive course "Software Tester", which I have recently finished, reinforced the necessary knowledge and skills and organized the directions of development. I caught the bug :] and I am still developing myself with pleasure in this field by practicing functional testing skills and learning useful technologies like Java, SQL or API testing...
 
