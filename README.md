@@ -112,6 +112,9 @@ I am open to any feedback, criticism, and help with professional development and
 
 ## My bug reports examples 
 
+
+## **Other tools, method used for improving QC skills:**
+
  
 ## My SQL training
 
