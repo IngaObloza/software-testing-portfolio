@@ -91,6 +91,8 @@ I am open to any feedback, criticism, and help with professional development and
     * [** 1.3.3 test plan execution report](https://drive.google.com/file/d/1HhtIf3PR-_ss9qLwBFgC4IXqvNWxGt_c/view?usp=sharing)
     * [* *bug report: APATd-1.3.3.1 - comparing products possible for one product added*](https://docs.google.com/document/d/1X2K1xyDMQw_Q6u3ZqCsO9EAhgyJygA7CzV5WSWMsOJI/edit?usp=sharing)
     * [* *bug report: APATd-1.3.3.2 - comparing products possible max for three product added*](https://docs.google.com/document/d/1CDvd_vr5rczF89fP5Tu8ZVUETC-Xk44DBCfkMI2IlJM/edit?usp=sharing)
+    * [** 1.3.4 exploratory testing - comparing products: exploratory session report](https://docs.google.com/document/d/1XDgjJhyUNbTxuD7Y97b6zkDYZj1wsTzlM1B2Um6ZpVY/edit?usp=sharing)
+    * [* *bug report: APATd-expl-1.3.4.1 - no "add to compare" option on product catalog pages when Chrome browser page size = 75%*](https://docs.google.com/document/d/1UrJ4it6IAWj40CU3dpZA56RSvIchcNgDYh5ceVXL7cA/edit?usp=sharing)
  
     
 
