@@ -99,6 +99,16 @@ I am open to any feedback, criticism, and help with professional development and
 * [**2.feature - View of cart and changing quantity of products in cart**](https://drive.google.com/drive/folders/1YBki34DIvB3d4ix6KSRVkGMAZr1rcDaT?usp=sharing)
   * [2.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1DqIACGbKrUu7dPEFs9V2pBYFmRFOXXLj?usp=sharing)
   * [2.1 test specification: test suites and test cases](https://drive.google.com/file/d/1Pzbk2JL9Usm4-Bc4Nrbrd34uUuiwTal4/view?usp=sharing)
+
+
+* [**3.feature - Sorting items by price highest first**](https://drive.google.com/drive/folders/1q-w_ZeAoBa720vQ2v3kRZu0BqAPvig_k?usp=sharing)
+  * [3.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1q14_4uQRU0n__H6Okx1YTcuCLK9vlUcC?usp=sharing) 
+  * [3.2 test specification: test suites and test cases](https://drive.google.com/file/d/1qXydPaelXIybvuyI67D25aO_LE2dw5Wc/view?usp=sharing)
+
+* [**4.feature - Sharing information via email by "send to a friend" option**](https://drive.google.com/drive/folders/1SbDcqstdqIkg5969wVTDdmm6SSq34oIY?usp=sharing)
+  * [4.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1du9wUXqLIW8B335-sPky7RF_ADXjdpdY?usp=sharing)
+  * [4.2 test specification: test suites and test cases](test specification: test suites and test cases)
+  
   
 ### Fragments:
 ### My decision tables, diagrams, equivalence partition, test data examples
