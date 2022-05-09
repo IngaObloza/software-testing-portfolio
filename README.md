@@ -85,14 +85,14 @@ I am open to any feedback, criticism, and help with professional development and
    * [1.2 test specification: test suites and test cases](https://drive.google.com/file/d/10tZ25Um9oECbIu1XZuZ6wN0w5PwPAzUm/view?usp=sharing)
    * [1.3 test reports: Test plan execution reports and defect reports](https://drive.google.com/drive/folders/17WTkI-786Rf3fiphnortbVwqYN2hy215?usp=sharing)
     * [** 1.3.1 test plan execution report](https://drive.google.com/file/d/1Zf_FtTBiURdJBTemzwMLUibsbno1qiVR/view?usp=sharing)   
-    * [* *bug report: APATd-1.3.1.1 - "add to compare" link not available on product's site*](https://docs.google.com/document/d/1vKYZPdE0ST7UuVR8hjKqZqbTbpUl2VYnlBFr2F8KsSU/edit?usp=sharing)
+    * [`bug report:` APATd-1.3.1.1 - "add to compare" link not available on product's site](https://docs.google.com/document/d/1vKYZPdE0ST7UuVR8hjKqZqbTbpUl2VYnlBFr2F8KsSU/edit?usp=sharing)
     * [** 1.3.2 test plan execution report](https://drive.google.com/file/d/12AP6aUmNsieEiDusUyp5EmTpw0jXihU7/view?usp=sharing)
-    * [`*bug report:` APATd-1.3.2.1 - "add to compare" link not available after pointing cursor over product*](https://docs.google.com/document/d/19ttax4y_atYdaIhBPTnxk8zBaBF3nHKG6AiN9r0ULYg/edit?usp=sharing) 
+    * [`bug report:` APATd-1.3.2.1 - "add to compare" link not available after pointing cursor over product](https://docs.google.com/document/d/19ttax4y_atYdaIhBPTnxk8zBaBF3nHKG6AiN9r0ULYg/edit?usp=sharing) 
     * [** 1.3.3 test plan execution report](https://drive.google.com/file/d/1HhtIf3PR-_ss9qLwBFgC4IXqvNWxGt_c/view?usp=sharing)
-    * [`*bug report:` APATd-1.3.3.1 - comparing products possible for one product added*](https://docs.google.com/document/d/1X2K1xyDMQw_Q6u3ZqCsO9EAhgyJygA7CzV5WSWMsOJI/edit?usp=sharing)
-    * [* *bug report: APATd-1.3.3.2 - comparing products possible max for three product added*](https://docs.google.com/document/d/1CDvd_vr5rczF89fP5Tu8ZVUETC-Xk44DBCfkMI2IlJM/edit?usp=sharing)
+    * [`bug report:` APATd-1.3.3.1 - comparing products possible for one product added](https://docs.google.com/document/d/1X2K1xyDMQw_Q6u3ZqCsO9EAhgyJygA7CzV5WSWMsOJI/edit?usp=sharing)
+    * [`bug report:` APATd-1.3.3.2 - comparing products possible max for three product added](https://docs.google.com/document/d/1CDvd_vr5rczF89fP5Tu8ZVUETC-Xk44DBCfkMI2IlJM/edit?usp=sharing)
     * [** 1.3.4 exploratory testing - comparing products: exploratory session report](https://docs.google.com/document/d/1XDgjJhyUNbTxuD7Y97b6zkDYZj1wsTzlM1B2Um6ZpVY/edit?usp=sharing)
-    * [* *bug report: APATd-expl-1.3.4.1 - no "add to compare" option on product catalog pages when Chrome browser page size = 75%*](https://docs.google.com/document/d/1UrJ4it6IAWj40CU3dpZA56RSvIchcNgDYh5ceVXL7cA/edit?usp=sharing)
+    * [`bug report:` APATd-expl-1.3.4.1 - no "add to compare" option on product catalog pages when Chrome browser page size = 75%](https://docs.google.com/document/d/1UrJ4it6IAWj40CU3dpZA56RSvIchcNgDYh5ceVXL7cA/edit?usp=sharing)
  
     
 
