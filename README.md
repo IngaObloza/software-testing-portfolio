@@ -123,7 +123,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 
 
-## **Other tools and methods used for improving QC skills:**
+## **Other tools and technologies used for improving QC skills:**
 
  
 ### My SQL training
