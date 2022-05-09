@@ -107,7 +107,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 * [**4.feature - Sharing information via email by "send to a friend" option**](https://drive.google.com/drive/folders/1SbDcqstdqIkg5969wVTDdmm6SSq34oIY?usp=sharing)
   * [4.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1du9wUXqLIW8B335-sPky7RF_ADXjdpdY?usp=sharing)
-  * [4.2 test specification: test suites and test cases](test specification: test suites and test cases)
+  * [4.2 test specification: test suites and test cases](https://drive.google.com/file/d/1S45eSmyxF3AAUgkA09_tRvKCvFxpASFE/view?usp=sharing)
   
   
 ### Fragments:
