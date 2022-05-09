@@ -98,7 +98,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 * [**2.feature - View of cart and changing quantity of products in cart**](https://drive.google.com/drive/folders/1YBki34DIvB3d4ix6KSRVkGMAZr1rcDaT?usp=sharing)
   * [2.1 requirement specifications and reviews](https://drive.google.com/drive/folders/1DqIACGbKrUu7dPEFs9V2pBYFmRFOXXLj?usp=sharing)
-  * [2.1 test specification: test suites and test cases](https://drive.google.com/file/d/1Pzbk2JL9Usm4-Bc4Nrbrd34uUuiwTal4/view?usp=sharing)
+  * [2.2 test specification: test suites and test cases](https://drive.google.com/file/d/1Pzbk2JL9Usm4-Bc4Nrbrd34uUuiwTal4/view?usp=sharing)
 
 
 * [**3.feature - Sorting items by price highest first**](https://drive.google.com/drive/folders/1q-w_ZeAoBa720vQ2v3kRZu0BqAPvig_k?usp=sharing)
