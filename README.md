@@ -132,10 +132,10 @@ I am open to any feedback, criticism, and help with professional development and
 * [SQL training - CodeWars / my GitHub repository / supports version: PostgreSQL 13.0](https://github.com/IngaObloza/SQL-CodeWars.git)
   * [Codewars Profile Badges](https://www.codewars.com/users/iobloza/badges/large)
 
-### My Java exercise `basic`
+### My Java exercise
 
-* [Java - exercise and training (my GitHub repository)](https://github.com/IngaObloza/Java-self-study-exercises.git)
+* [Java - exercise and training (my GitHub repository) `basic`](https://github.com/IngaObloza/Java-self-study-exercises.git)
 
-### My API testing practice and training `basic`   
+### My API testing practice and training
 
 
