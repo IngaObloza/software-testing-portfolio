@@ -134,7 +134,7 @@ I am open to any feedback, criticism, and help with professional development and
 
 ### My Java exercise
 
-* [Java exercises - my GitHub repository]
+* [Java - exercise and training (my GitHub repository)](https://github.com/IngaObloza/Java-self-study-exercises.git)
 
 ### My API testing   
 
